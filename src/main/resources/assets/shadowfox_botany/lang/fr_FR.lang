@@ -1,0 +1,143 @@
+itemGroup.shadowfox_botany=Botanical Addons
+
+misc.shadowfox_botany.color.0=Blanc
+misc.shadowfox_botany.color.1=Orange
+misc.shadowfox_botany.color.2=Magenta
+misc.shadowfox_botany.color.3=Bleu clair
+misc.shadowfox_botany.color.4=Jaune
+misc.shadowfox_botany.color.5=Vert clair
+misc.shadowfox_botany.color.6=Rose
+misc.shadowfox_botany.color.7=Gris
+misc.shadowfox_botany.color.8=Gris clair
+misc.shadowfox_botany.color.9=Cyan
+misc.shadowfox_botany.color.10=Violet
+misc.shadowfox_botany.color.11=Bleu
+misc.shadowfox_botany.color.12=Marron
+misc.shadowfox_botany.color.13=Vert
+misc.shadowfox_botany.color.14=Rouge
+misc.shadowfox_botany.color.15=Noir
+misc.shadowfox_botany.color.16=Bifrost
+
+misc.shadowfox_botany.creative=Créatif
+
+item.shadowfox_botany:attributionBauble0.name=Symbole sacré
+item.shadowfox_botany:attributionBauble1.name=Pendentif d'invocation de tête tatouée
+
+item.shadowfox_botany:colorfulSkyDirtRod.name=Bâton de l'irisation
+item.shadowfox_botany:lightningRod.name=Bâton du porte-foudre 
+item.shadowfox_botany:interdictionRod.name=Bâton de l'ouragan
+
+item.shadowfox_botany:priestEmblem0.name=Emblème de prière : Thor
+item.shadowfox_botany:priestEmblem1.name=Emblème de prière : Sif
+item.shadowfox_botany:priestEmblem2.name=Emblème de prière : Njord
+
+item.shadowfox_botany:aesirEmblem.name=Emblème de prière : &6Aesir&r
+
+entity.shadowfox_botany:voidCreeper.name=Creeper bloque mana
+
+tile.shadowfox_botany:barrier.name=Barrière
+
+tile.shadowfox_botany:rainbowDirt.name=Terre irisée
+tile.shadowfox_botany:coloredDirt.name=Terre irisée
+tile.shadowfox_botany:rainbowLeaves.name=Feuilles irisées
+tile.shadowfox_botany:irisLeaves.name=Feuilles irisées
+tile.shadowfox_botany:rainbowWood.name=Bois irisé
+tile.shadowfox_botany:irisWood.name=Bois irisé
+tile.shadowfox_botany:irisSapling.name=Pousse irisée
+tile.shadowfox_botany:rainbowPlanks.name=Planches irisées
+tile.shadowfox_botany:irisPlanks.name=Planches irisées
+tile.shadowfox_botany:rainbowGrass.name=Herbe irisée
+tile.shadowfox_botany:irisGrass.name=Herbe irisée
+tile.shadowfox_botany:rainbowDoubleGrass.name=Herbe haute irisée
+tile.shadowfox_botany:irisDoubleGrass.name=herbe haute irisée
+item.shadowfox_botany:irisSeeds.name=Graines irisées
+
+tile.shadowfox_botany:invisibleFlame.name=Phantom Mana Flash
+item.botania:lensPhantomLight.short=Phantom Flash
+
+item.shadowfox_botany:coatOfArms0.name=Bouclier chilien
+item.shadowfox_botany:coatOfArms1.name=Bouclier français
+item.shadowfox_botany:coatOfArms2.name=Bouclier parisien
+item.shadowfox_botany:coatOfArms3.name=Bouclier germanique
+item.shadowfox_botany:coatOfArms4.name=Bouclier grec
+item.shadowfox_botany:coatOfArms5.name=Bouclier islandais
+item.shadowfox_botany:coatOfArms6.name=Bouclier irlandais
+item.shadowfox_botany:coatOfArms7.name=Bouclier israélite
+item.shadowfox_botany:coatOfArms8.name=Bouclier jamaicain
+item.shadowfox_botany:coatOfArms9.name=Bouclier singapourien
+item.shadowfox_botany:coatOfArms10.name=Bouclier sud africain
+item.shadowfox_botany:coatOfArms11.name=Bouclier espagnol
+item.shadowfox_botany:coatOfArms12.name=Bouclier suisse
+item.shadowfox_botany:coatOfArms13.name=Bouclier texan
+item.shadowfox_botany:coatOfArms14.name=Bouclier ukrainien
+item.shadowfox_botany:coatOfArms15.name=Bouclier américain
+item.shadowfox_botany:coatOfArms16.name=Bouclier fabuleux
+
+item.shadowfox_botany:colorOverride.name=Coloriseur cléricale
+
+tile.shadowfox_botany:rainbowPlanksSlab.name=Dalle irisée
+tile.shadowfox_botany:rainbowPlanksSlabFull.name=Dalle irisée
+tile.shadowfox_botany:irisPlanksSlab.name=Dalle irisée
+tile.shadowfox_botany:irisPlanksSlabFull.name=Dalle irisée
+
+tile.shadowfox_botany:rainbowPlanksStairs.name=Escalliers irisés
+tile.shadowfox_botany:irisPlanksStairs.name=Escalliers irisés
+
+shadowfox_botany.potion.manaVoid=Manatide Storm
+
+shadowfox_botany.entry.coloredDirt=Terre irisée
+shadowfox_botany.tagline.coloredDirt=Terres multicolores pour vos besoins décoratifs
+shadowfox_botany.entry.technicolorRod=Bâton de l'irisation
+shadowfox_botany.tagline.technicolorRod=Terres multicolores faite d'un fil d'air
+shadowfox_botany.entry.lightningRod=Bâton du porte-foudre
+shadowfox_botany.tagline.lightningRod=Portez la peur et la foudre chez l'enemis
+shadowfox_botany.entry.interdictionRod=Bâton de l'ouragan
+shadowfox_botany.tagline.interdictionRod=Poussez vos enemis hors de votre espace personnel
+shadowfox_botany.entry.irisSapling=Arbre irisés
+shadowfox_botany.tagline.irisSapling=Faites grandir des arbres avec toutes les couleurs du vend
+shadowfox_botany.entry.irisSeeds=Herbe irisée
+shadowfox_botany.tagline.irisSeeds=Herbe multicolores pour vos paysanges colorés
+shadowfox_botany.entry.coatOfArms=Armoiries
+shadowfox_botany.tagline.coatOfArms=Déclarez votre allégence
+shadowfox_botany.entry.colorOverride=Colorisation cléricale
+shadowfox_botany.tagline.colorOverride=Magie pleine de couleur
+shadowfox_botany.entry.attribution=Symboles sacrés
+shadowfox_botany.tagline.attribution=Les clefs pour quelque chose de plus grand
+
+shadowfox_botany.page.coloredDirt0=Using the latent power in &1Mystical Flowers&0, you can make dirt that shimmers every color of the rainbow. This mystical dirt is capable of growing trees and plants without water or a hoe. If put next to a &1Pure Daisy&0, it will revert to its uncolored state.
+shadowfox_botany.page.coloredDirt1=Beauty from the dross
+
+shadowfox_botany.page.technicolorRod0=The &1Rod of the Iridescense&0, like the &1Rod of the Highlands&0, can place &1Iridescent Dirt&0 in the air at the cost of mana. Unlike its less colorful counterpart, sneaking and clicking in the air will shift the rod between the various colors of &4Iridescense&0.<br>This rod can be given to a &1Livingwood Avatar&0.
+shadowfox_botany.page.technicolorRod1=Simply drowning in colors
+shadowfox_botany.page.technicolorRod2=It appears that connecting your soul to the ancient god of earth, &4Sif&0, can increase your ability to use the &1Rod of the Iridescense&0. By donning the &1Priestly Emblem: Sif&0, your range extends beyond this rod's normal limits. Wearing the &1Ring of Far Reach&0 will increase your range further with the Emblem's power.
+shadowfox_botany.page.technicolorRod3=Welcome now, and take the crystal cup
+
+shadowfox_botany.page.lightningRod0=The &1Rod of the Thundercaller&0, much like its sword cousin, the &1Thundercaller&0, can summon lightning to strike your enemies. It will leap from enemy to enemy, killing them all in turn.<br>A &1Livingwood Avatar&0 can also wield this rod.
+shadowfox_botany.page.lightningRod1=Not quite a blessed blade
+shadowfox_botany.page.lightningRod2=It appears that connecting your soul to the ancient god of lightning, &4Thor&0, can increase your proficiency with the power of thunder. By donning the &1Priestly Emblem: Thor&0, this can be achieved. It seems that &4Manatide Prowess&0 has a similar effect upon the rod.<br>There appear to be even further power trapped within the rod, but it would take a god to get it out.
+shadowfox_botany.page.lightningRod3=In anger smite the earth
+
+shadowfox_botany.page.interdictionRod0=The &1Rod of the Hurricane&0 is one for those who don't like people in their personal space. Using it will seal the area around you, creating a sphere of force where other living beings cannot tread, and projectiles cannot pass. Whenever something tries to break this seal, &4Mana&0 is consumed to repel it.
+shadowfox_botany.page.interdictionRod1=really not feelin up to it right now
+shadowfox_botany.page.interdictionRod2=It appears that connecting your soul to the ancient god of wind, &4Njord&0, can increase your proficiency with the power of air. By donning the &1Priestly Emblem: Njord&0, the force you exert with this rod will become much greater. It seems that &4Manatide Prowess&0 has a similar, but weaker effect upon the rod.
+shadowfox_botany.page.interdictionRod3=At the doom of men he will come back
+
+shadowfox_botany.page.irisSapling0=Blessed by the goddess of rainbows, these saplings are made from their earthly counterparts by the purifying magic of a &1Pure Daisy&0. These saplings will only grow on &1Iridescent Dirt&0 and take on the hue of the dirt they lay their roots in.<br><br>They're just &oreally&0 big carnations
+shadowfox_botany.page.irisSapling1=Planches
+shadowfox_botany.page.irisSapling2=Dalles
+shadowfox_botany.page.irisSapling3=Escalliers
+shadowfox_botany.page.irisSapling4=And back again
+shadowfox_botany.page.irisSapling5=Grinding them down
+
+shadowfox_botany.page.irisSeeds0=If &1Bone Meal&0 is used on &1Iridescent Dirt&0, it will grow &1Iridescent Grass&0 instead of &1Tall Grass&0. When this &1Iridescent Grass&0 is thrown into a &4Mana Pool&0, you get out something quite like the &1Pasture Seed&0. It will transmute &1Grass&0 and &1Dirt&0 into &1Iridescent Dirt&0, with a simple right click.
+shadowfox_botany.page.irisSeeds1=/etc/sudoers
+shadowfox_botany.page.irisSeeds2=Tiger Orchid monoculture
+
+shadowfox_botany.page.coatOfArms0=Much like &1Cosmetic Baubles&0, the &1Coat of Arms&0 can add a touch of style to any baubles a player has equipped. These can be worn as an &4Amulet&0, or crafted alongside another &4Bauble&0 much like &4Cosmetic Overrides&0.<br>Wearing a &1Coat of Arms&0 will act as a &1Clerical Colorizer&0, changing the color of any clerical abilities you might use so as to declare your allegiance.
+shadowfox_botany.page.coatOfArms1=Papers, please
+
+shadowfox_botany.page.colorOverride0=The &1Clerical Colorizer&0, the &4Ring&0 form of the &1Paintslinger's Lens&0 can change even the color of magic. Wearing one will affect any clerically aligned abilities, changing their color. These can be crafted alongside another &4Bauble&0 much like &4Cosmetic Overrides&0. They can by dyed much like leather with &1Floral Powder&0, and cleared by simply putting one in a crafting table.
+shadowfox_botany.page.colorOverride1=Beware of the dark clerics
+
+shadowfox_botany.page.attribution0=The &1Holy Symbol&0 is an artifact with what seems to be a wild storm of unrealized potential. Although crafted of simple materials, it has a ready acceptance of other materials.<br>There seems to be no overworldly way of fully combining them, however, and the &4Nether&0 and the &4End&0 have given no clues. Perhaps you must look in &2other places&0.
+shadowfox_botany.page.attribution1=Priestly fashion
